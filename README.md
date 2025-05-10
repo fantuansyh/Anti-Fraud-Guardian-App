@@ -21,7 +21,6 @@ Please follow these steps to install the required dependencies:
    pip install -r requirements.txt
 
 
-
 ## 网页端[AppSecureX](http://106.53.3.193:8000)
 
 ## 本地环境配置
